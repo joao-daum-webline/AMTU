@@ -4,9 +4,6 @@
 
 	//variavel que verifica se a autenticacao foi realizada
 	$usuario_autenticado = false;
-	$usuario_id = null;
-	$usuario_perfil_id = null;
-
 	$perfis = array(1 => 'Administrativo', 2 => 'Usuário');
 
 	//usuarios do sistema
